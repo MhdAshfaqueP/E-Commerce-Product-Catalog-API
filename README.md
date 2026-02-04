@@ -16,7 +16,15 @@ It follows a layered architecture with:
 - `service`: Contains business logic and data manipulation.
 - `model`: Defines the data structure.
 
-## How to Run the Project
+## Live Deployment
+
+This application is deployed and publicly accessible. You can interact with the live API at the following URL:
+
+**Live API URL**: [`https://e-commerce-product-catalog-api.onrender.com`](https://e-commerce-product-catalog-api.onrender.com)
+
+You can use the endpoints listed below with this base URL. For example, to get all products, use `GET https://e-commerce-product-catalog-api.onrender.com/products`.
+
+## How to Run the Project Locally
 
 1.  **Prerequisites**: Ensure you have Java 21 (or higher) and Maven installed.
 2.  **Clone/Download**: Navigate to the project root directory (`D:/SpringWeb/catalog`).
@@ -43,7 +51,7 @@ The project includes unit tests for the controller layer using `MockMvc`. To run
 (On Windows, use `mvnw.cmd test`)
 
 ### Manual Testing
-You can use tools like Postman or `curl` to test the API endpoints.
+You can use tools like Postman or `curl` to test the API endpoints, either locally or with the live URL.
 
 ## API Endpoints
 
