@@ -17,6 +17,7 @@ It follows a layered architecture with:
 - `model`: Defines the data structure.
 
 ## Live Deployment
+
 This application is deployed and publicly accessible. You can interact with the live API at the following URL:
 
 **Live API URL**: [`https://e-commerce-product-catalog-api.onrender.com`](https://e-commerce-product-catalog-api.onrender.com)
