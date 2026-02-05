@@ -4,7 +4,6 @@ This is a simple Spring Boot REST API backend for a mini e-commerce product mana
 
 ## Project Overview
 
-
 The project is built using:
 - Java 21
 - Spring Boot 3.2.2
